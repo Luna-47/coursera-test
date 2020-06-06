@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Luna-47/Coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Luna-47/Coursera-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial scale=1">
+<title>Modeule 1</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<h1>My Country</h1>
+<div class="row">
+    <div class="p1"><section>Nepal</section>
+          <p>Nepal (Nepali: नेपाल [neˈpal]), officially the Federal Democratic 
+             Republic of Nepal, is a country in South Asia. It is located
+             mainly in the Himalayas, but also includes parts of the Indo-Gangetic
+             Plain. It is the 49th largest country by population and 93rd largest
+             country by area. It is landlocked, and borders China in the north and 
+             India in the south, east and west, while Bangladesh is located within 
+             only 27 km (17 mi) of its southeastern tip and Bhutan is separated from
+             it by the Indian state of Sikkim. Nepal has a diverse geography, 
+             including fertile plains, subalpine forested hills, and eight of the 
+             world's ten tallest mountains, including Mount Everest, the highest 
+             point on Earth. Kathmandu is the capital and the largest city. Nepal is
+             a multiethnic country with Nepali as the official language.</p>
+     </div>
+     <div class="p2"><section>My birthplace</section>
+          <p>Nepal (Nepali: नेपाल [neˈpal]), officially the Federal Democratic 
+             Republic of Nepal, is a country in South Asia. It is located
+             mainly in the Himalayas, but also includes parts of the Indo-Gangetic
+             Plain. It is the 49th largest country by population and 93rd largest
+             country by area. It is landlocked, and borders China in the north and 
+             India in the south, east and west, while Bangladesh is located within 
+             only 27 km (17 mi) of its southeastern tip and Bhutan is separated from
+             it by the Indian state of Sikkim. Nepal has a diverse geography, 
+             including fertile plains, subalpine forested hills, and eight of the 
+             world's ten tallest mountains, including Mount Everest, the highest 
+             point on Earth. Kathmandu is the capital and the largest city. Nepal is
+             a multiethnic country with Nepali as the official language.</p>
+     </div>
+     <div class="p3"><section>My motherland</section>
+          <p>
+Nepal (Nepali: नेपाल [neˈpal]), officially the Federal Democratic 
+             Republic of Nepal, is a country in South Asia. It is located
+             mainly in the Himalayas, but also includes parts of the Indo-Gangetic
+             Plain. It is the 49th largest country by population and 93rd largest
+             country by area. It is landlocked, and borders China in the north and 
+             India in the south, east and west, while Bangladesh is located within 
+             only 27 km (17 mi) of its southeastern tip and Bhutan is separated from
+             it by the Indian state of Sikkim. Nepal has a diverse geography, 
+             including fertile plains, subalpine forested hills, and eight of the 
+             world's ten tallest mountains, including Mount Everest, the highest 
+             point on Earth. Kathmandu is the capital and the largest city. Nepal is
+             a multiethnic country with Nepali as the official language.</p>
+     </div>
+</div>
+         
+</body>
+</html>
